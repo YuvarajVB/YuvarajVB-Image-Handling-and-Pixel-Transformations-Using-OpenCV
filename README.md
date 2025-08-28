@@ -121,7 +121,7 @@ plt.show()
 
 #### 10. Read in the image ('Apollo-11-launch.jpg').
 ```python
-apollo = cv2.imread('Apollo-11-launch.jpg')
+img2 = cv2.imread('Apollo-11-launch.jpg')
 
 plt.imshow(img2)
 plt.title("Apollo")
